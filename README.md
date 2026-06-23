@@ -9,7 +9,6 @@
     Software Development as a Platform
 ==========================================
 
-
 -|_|-----------|___/----------------------
                Overview
 ------------------------------------------
@@ -34,8 +33,22 @@ Test-Driven Development (TDD)
 
 + Status: Developing
 
+
+2. Wifide - IDE @ Wi-Fi Network Platform
+
++ Desc: provides various web-based IDE which are
+designed to run on Wi-Fi network or single user
+hosting. They contain proxies for triggering from 
+IDE to run projects both on site and/or on local 
+computer.
+
     
-2. Trackor - Issue Tracking Platform
++ URL: https://progorker.github.io/wifide/
+
++ Status: Developing
+
+    
+3. Trackor - Issue Tracking Platform
 
 + Desc: customized Postisk (DMS with dynamic 
   attributes of cabinets, folders & files)
@@ -46,7 +59,7 @@ Test-Driven Development (TDD)
 + Status: Planning
 
     
-3. Sourcor - Source Version Controlling Platform
+4. Sourcor - Source Version Controlling Platform
 
 + Desc: customized Postisk (DMS with dynamic 
   attributes of cabinets, folders & files)
@@ -57,7 +70,7 @@ Test-Driven Development (TDD)
 + Status: Planning
 
 
-4. Buildor - CI/CD Platform
+5. Buildor - CI/CD Platform
 
 + Desc: customized Postisk (DMS with dynamic 
   attributes of cabinets, folders & files)
@@ -68,7 +81,7 @@ Test-Driven Development (TDD)
 + Status: Planning
 
 
-5. Makor - OOD Documentation to/from Code Bases Converting Platform
+6. Makor - OOD Documentation to/from Code Bases Converting Platform
 
 + Desc: customized Postisk (DMS with dynamic 
   attributes of cabinets, folders & files)
